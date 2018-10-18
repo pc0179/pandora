@@ -8,7 +8,7 @@ You will need a PC with GNU/Linux installed. The tutorial will explain how to in
 First of all, open a console terminal (like Konsole or xterm) and upgrade your system to the last updates:
 ```bash
  $ sudo apt-get update
- $ sudo apt-get upgrate
+ $ sudo apt-get upgrade
 ```
 
 Once it is done, this is the full list of external dependencies of Pandora, that need to be installed:
